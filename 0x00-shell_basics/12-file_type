@@ -1,0 +1,2 @@
+#!/bin/bash
+filename="/tmp/iamafile" if [ -f $filename ]; then mimetype=$(file -b --mime-type $filename) echo "The file type is: $mimetype" else echo "$filename: No such file or directory" fi
