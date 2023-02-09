@@ -6,3 +6,4 @@ Display current directory contents, including hidden files (starting with .). Us
 script that displays the current directory contents.
 Create a script that creates a directory named my_first_directory in the /tmp/ directory.
 script that moves /tmp/betty to /tmp/my_first_directory
+Script that removes betty from my_first_directory
