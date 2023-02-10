@@ -1,2 +1,2 @@
 #!/bin/bash
-for file in *~; do rm "$file" done
+rm -r [[~]]* 
