@@ -12,3 +12,7 @@ Task 10 - a script that sets the mode of the file hello the same as olleh’s mo
 Task 11 - a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 Task 12 - a script that changes the group owner to school for the file hello
 Task 13 - script that changes the group owner to school for the file hello
+Task 14 - a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+Task 15 - a script that changes the owner and the group owner of _hello to vincent and staff respectively 
+Task 16 - a script that changes the owner of the file hello to betty only if it is owned by the user guillaume
+Task 17 - a script that will play the StarWars IV episode in the terminal
