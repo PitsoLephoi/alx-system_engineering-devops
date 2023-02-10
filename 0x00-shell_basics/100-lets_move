@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p /tmp/u for file in *; do first_letter=$(echo "$file" | cut -c 1) if [[ "$first_letter" =~ [A-Z] ]]; then mv "$file" /tmp/u/ fi done
+mv [[:upper:]]* /tmp/u
